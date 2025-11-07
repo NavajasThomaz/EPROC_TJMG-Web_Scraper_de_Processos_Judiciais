@@ -1,0 +1,51 @@
+{
+  "metadata": {
+    "data_extracao": "2025-11-06T22:48:12.991737",
+    "total_processos": 7,
+    "nomes_consultados": [
+      "ADILSON DA SILVA",
+      "JOÃO DA SILVA MORAES",
+      "RICARDO DE JESUS",
+      "SERGIO FIRMINO DA SILVA",
+      "HELENA FARIAS DE LIMA",
+      "PAULO SALIM MALUF",
+      "PEDRO DE SÁ"
+    ],
+    "url_fonte": "https://eproc-consulta-publica-1g.tjmg.jus.br/eproc/externo_controlador.php?acao=processo_consulta_publica"
+  },
+  "processos": {
+    "ADILSON DA SILVA": [
+      {
+        "Nº do Processo:": "1002309-19.2025.8.13.0145",
+        "Data de autuação:": "21/10/2025 13:06:40",
+        "Situação:": "MOVIMENTO-AGUARDA DESPACHO",
+        "Classe da ação:": "EXECUÇÃO DE TÍTULO EXTRAJUDICIAL"
+      },
+      {
+        "Nº do Processo:": "1066534-23.2025.8.13.0024",
+        "Data de autuação:": "09/10/2025 18:35:47",
+        "Situação:": "MOVIMENTO",
+        "Classe da ação:": "INVENTÁRIO"
+      },
+      {
+        "Nº do Processo:": "1000103-15.2025.8.13.0377",
+        "Data de autuação:": "23/10/2025 18:17:17",
+        "Situação:": "MOVIMENTO-AGUARDA DESPACHO",
+        "Classe da ação:": "PROCEDIMENTO DO JUIZADO ESPECIAL DA FAZENDA PÚBLICA"
+      }
+    ],
+    "JOÃO DA SILVA MORAES": [],
+    "RICARDO DE JESUS": [
+      {
+        "Nº do Processo:": "1003164-02.2025.8.13.0079",
+        "Data de autuação:": "23/10/2025 14:58:16",
+        "Situação:": "MOVIMENTO",
+        "Classe da ação:": "PROCEDIMENTO DO JUIZADO ESPECIAL CÍVEL"
+      }
+    ],
+    "SERGIO FIRMINO DA SILVA": [],
+    "HELENA FARIAS DE LIMA": [],
+    "PAULO SALIM MALUF": [],
+    "PEDRO DE SÁ": []
+  }
+}
