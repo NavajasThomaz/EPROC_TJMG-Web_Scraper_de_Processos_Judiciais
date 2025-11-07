@@ -1,6 +1,7 @@
 # 🔍 EPROC TJMG - Web Scraper de Processos Judiciais
 
 Sistema automatizado para captura de dados de processos judiciais do sistema eproc do Tribunal de Justiça de Minas Gerais (TJMG).
+A versão disponibilizada publicamente extrai apenas a capa do processo. Para obter a versão completa entrar em contato: Thomaznavajas@gmail.com
 
 ## 📋 Índice
 
